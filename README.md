@@ -8,4 +8,5 @@ If you create new your load on the rocket, you may have problems landing 1 rocke
 For 1 stage of rocket, use <code> 1St_Falcon9<sup>.ks</sup> </code>, 2 - <code> 2St_Falcon9<sup>.ks</sup> </code>.
 
 Download kOS - https://ksp-kos.github.io/KOS/downloads_links.html
+
 Download craft in Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=1839379479
